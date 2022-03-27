@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lsdlab/static/css/main.eea642fc.css",
-    "main.js": "/lsdlab/static/js/main.93c02674.js",
+    "main.css": "/lsdlab/static/css/main.94e5d14a.css",
+    "main.js": "/lsdlab/static/js/main.86b7f2f0.js",
     "static/media/straight.png": "/lsdlab/static/media/straight.59a5237f7e34c33d38e0.png",
     "static/media/Sun.png": "/lsdlab/static/media/Sun.f9a24d0ec946c42fa4b0.png",
     "static/media/standard stitch.png": "/lsdlab/static/media/standard stitch.663dbb1623d2ad4849f8.png",
@@ -32,11 +32,11 @@
     "static/media/space ship.png": "/lsdlab/static/media/space ship.7b27efdabcba4a6c17fa.png",
     "static/media/white paper.png": "/lsdlab/static/media/white paper.910c237174abc814e6dc.png",
     "index.html": "/lsdlab/index.html",
-    "main.eea642fc.css.map": "/lsdlab/static/css/main.eea642fc.css.map",
-    "main.93c02674.js.map": "/lsdlab/static/js/main.93c02674.js.map"
+    "main.94e5d14a.css.map": "/lsdlab/static/css/main.94e5d14a.css.map",
+    "main.86b7f2f0.js.map": "/lsdlab/static/js/main.86b7f2f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.eea642fc.css",
-    "static/js/main.93c02674.js"
+    "static/css/main.94e5d14a.css",
+    "static/js/main.86b7f2f0.js"
   ]
 }

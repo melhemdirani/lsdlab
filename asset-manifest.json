@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lsdlab/static/css/main.5c763c56.css",
-    "main.js": "/lsdlab/static/js/main.86b7f2f0.js",
+    "main.css": "/lsdlab/static/css/main.c055c6fa.css",
+    "main.js": "/lsdlab/static/js/main.d30495db.js",
     "static/media/straight.png": "/lsdlab/static/media/straight.59a5237f7e34c33d38e0.png",
     "static/media/Sun.png": "/lsdlab/static/media/Sun.f9a24d0ec946c42fa4b0.png",
     "static/media/standard stitch.png": "/lsdlab/static/media/standard stitch.663dbb1623d2ad4849f8.png",
@@ -29,14 +29,15 @@
     "static/media/Gotham-Light.otf": "/lsdlab/static/media/Gotham-Light.59aa40045d8df0b87a73.otf",
     "static/media/Gotham-Book-Regular.otf": "/lsdlab/static/media/Gotham-Book-Regular.d946fc4006181ac4e1c7.otf",
     "static/media/Water ripples mini.png": "/lsdlab/static/media/Water ripples mini.1945441c9ec83c944bab.png",
+    "static/media/twitter.png": "/lsdlab/static/media/twitter.9685c410a6499b9ebc16.png",
     "static/media/space ship.png": "/lsdlab/static/media/space ship.7b27efdabcba4a6c17fa.png",
     "static/media/white paper.png": "/lsdlab/static/media/white paper.910c237174abc814e6dc.png",
     "index.html": "/lsdlab/index.html",
-    "main.5c763c56.css.map": "/lsdlab/static/css/main.5c763c56.css.map",
-    "main.86b7f2f0.js.map": "/lsdlab/static/js/main.86b7f2f0.js.map"
+    "main.c055c6fa.css.map": "/lsdlab/static/css/main.c055c6fa.css.map",
+    "main.d30495db.js.map": "/lsdlab/static/js/main.d30495db.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c763c56.css",
-    "static/js/main.86b7f2f0.js"
+    "static/css/main.c055c6fa.css",
+    "static/js/main.d30495db.js"
   ]
 }

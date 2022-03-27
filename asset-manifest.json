@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lsdlab/static/css/main.4400fdca.css",
-    "main.js": "/lsdlab/static/js/main.809573a8.js",
+    "main.css": "/lsdlab/static/css/main.e28a50c3.css",
+    "main.js": "/lsdlab/static/js/main.ec93a7b4.js",
     "static/media/Sun.png": "/lsdlab/static/media/Sun.fed3f26630c830bae1cb.png",
     "static/media/LSD_LAB_CRISTAL.png": "/lsdlab/static/media/LSD_LAB_CRISTAL.8eba5b20bd4f557dcbf7.png",
     "static/media/straight.png": "/lsdlab/static/media/straight.916daeae57d35b0fdb2c.png",
     "static/media/Sunmobile.png": "/lsdlab/static/media/Sunmobile.6715f1ff8a6b878d8534.png",
     "static/media/LSD_LAB_NFT_HOME.png": "/lsdlab/static/media/LSD_LAB_NFT_HOME.450aae1e959b24a249e3.png",
     "static/media/standard stitch.png": "/lsdlab/static/media/standard stitch.6ce7260dda343e987425.png",
-    "static/media/Purpleboard.png": "/lsdlab/static/media/Purpleboard.8d13755845fcf9f8ba70.png",
     "static/media/Gotham-Medium-copy.otf": "/lsdlab/static/media/Gotham-Medium-copy.bcd733e6f8ebeb6a5e75.otf",
     "static/media/Gotham-Medium.otf": "/lsdlab/static/media/Gotham-Medium.bcd733e6f8ebeb6a5e75.otf",
     "static/media/Lego stitch.png": "/lsdlab/static/media/Lego stitch.0e683f6c899dd0a58355.png",
     "static/media/TheMeshroomRegular.ttf": "/lsdlab/static/media/TheMeshroomRegular.53dcda497e6d0e75700c.ttf",
     "static/media/utility community.png": "/lsdlab/static/media/utility community.7cc315a3df5e3a7f54a2.png",
     "static/media/Gotham-Medium-Regular.ttf": "/lsdlab/static/media/Gotham-Medium-Regular.ba4f661aec947b576e57.ttf",
+    "static/media/Purpleboard.png": "/lsdlab/static/media/Purpleboard.6184b59c618ea26dbfd6.png",
     "static/media/partnerships.png": "/lsdlab/static/media/partnerships.c61562df0435dee3a21f.png",
     "static/media/organic stitch.png": "/lsdlab/static/media/organic stitch.5bc9b757aa97ad1226f9.png",
     "static/media/main stitch.png": "/lsdlab/static/media/main stitch.35958239ae060a8d44c1.png",
@@ -32,11 +32,11 @@
     "static/media/space ship.png": "/lsdlab/static/media/space ship.7b27efdabcba4a6c17fa.png",
     "static/media/white paper.png": "/lsdlab/static/media/white paper.910c237174abc814e6dc.png",
     "index.html": "/lsdlab/index.html",
-    "main.4400fdca.css.map": "/lsdlab/static/css/main.4400fdca.css.map",
-    "main.809573a8.js.map": "/lsdlab/static/js/main.809573a8.js.map"
+    "main.e28a50c3.css.map": "/lsdlab/static/css/main.e28a50c3.css.map",
+    "main.ec93a7b4.js.map": "/lsdlab/static/js/main.ec93a7b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.4400fdca.css",
-    "static/js/main.809573a8.js"
+    "static/css/main.e28a50c3.css",
+    "static/js/main.ec93a7b4.js"
   ]
 }

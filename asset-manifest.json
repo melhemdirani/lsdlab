@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/lsdlab/static/css/main.9b529c51.css",
+    "main.js": "/lsdlab/static/js/main.93c02674.js",
+    "static/media/straight.png": "/lsdlab/static/media/straight.59a5237f7e34c33d38e0.png",
+    "static/media/Sun.png": "/lsdlab/static/media/Sun.f9a24d0ec946c42fa4b0.png",
+    "static/media/standard stitch.png": "/lsdlab/static/media/standard stitch.663dbb1623d2ad4849f8.png",
+    "static/media/Lego stitch.png": "/lsdlab/static/media/Lego stitch.3d38a17a6a12a29d214b.png",
+    "static/media/LSD_LAB_CRISTAL.png": "/lsdlab/static/media/LSD_LAB_CRISTAL.a13617d8535eb89ccc89.png",
+    "static/media/LSD_LAB_NFT_HOME.png": "/lsdlab/static/media/LSD_LAB_NFT_HOME.ca67224b184bec18d560.png",
+    "static/media/organic stitch.png": "/lsdlab/static/media/organic stitch.fdbf6b9d43bb7898aa14.png",
+    "static/media/main stitch.png": "/lsdlab/static/media/main stitch.6620f49c732dbea4d521.png",
+    "static/media/peace.png": "/lsdlab/static/media/peace.f9da44fe722a35da556f.png",
+    "static/media/LSD_ABOUT_NFT.png": "/lsdlab/static/media/LSD_ABOUT_NFT.711d8d93524e97bb1182.png",
+    "static/media/Purpleboard.png": "/lsdlab/static/media/Purpleboard.8d13755845fcf9f8ba70.png",
+    "static/media/Gotham-Medium-copy.otf": "/lsdlab/static/media/Gotham-Medium-copy.bcd733e6f8ebeb6a5e75.otf",
+    "static/media/Gotham-Medium.otf": "/lsdlab/static/media/Gotham-Medium.bcd733e6f8ebeb6a5e75.otf",
+    "static/media/TheMeshroomRegular.ttf": "/lsdlab/static/media/TheMeshroomRegular.53dcda497e6d0e75700c.ttf",
+    "static/media/utility community.png": "/lsdlab/static/media/utility community.7cc315a3df5e3a7f54a2.png",
+    "static/media/Gotham-Medium-Regular.ttf": "/lsdlab/static/media/Gotham-Medium-Regular.ba4f661aec947b576e57.ttf",
+    "static/media/partnerships.png": "/lsdlab/static/media/partnerships.c61562df0435dee3a21f.png",
+    "static/media/mushroom mini.png": "/lsdlab/static/media/mushroom mini.97e2510f1e7fa7fc672b.png",
+    "static/media/application.png": "/lsdlab/static/media/application.3131fa80b375f9e4ac93.png",
+    "static/media/lab.png": "/lsdlab/static/media/lab.1d794bddaf5b95e2a1c5.png",
+    "static/media/Power plant mini.png": "/lsdlab/static/media/Power plant mini.68eb91ebf4601b0e3dcf.png",
+    "static/media/voting.png": "/lsdlab/static/media/voting.2be7c83481afb752f7c6.png",
+    "static/media/LSD_LAB_LOGO.png": "/lsdlab/static/media/LSD_LAB_LOGO.4249804614cfcd072924.png",
+    "static/media/GothamHTF-Light.otf": "/lsdlab/static/media/GothamHTF-Light.45bfeddbc723ee97c16b.otf",
+    "static/media/Gotham-Light.otf": "/lsdlab/static/media/Gotham-Light.59aa40045d8df0b87a73.otf",
+    "static/media/Gotham-Book-Regular.otf": "/lsdlab/static/media/Gotham-Book-Regular.d946fc4006181ac4e1c7.otf",
+    "static/media/Water ripples mini.png": "/lsdlab/static/media/Water ripples mini.1945441c9ec83c944bab.png",
+    "static/media/space ship.png": "/lsdlab/static/media/space ship.7b27efdabcba4a6c17fa.png",
+    "static/media/white paper.png": "/lsdlab/static/media/white paper.910c237174abc814e6dc.png",
+    "index.html": "/lsdlab/index.html",
+    "main.9b529c51.css.map": "/lsdlab/static/css/main.9b529c51.css.map",
+    "main.93c02674.js.map": "/lsdlab/static/js/main.93c02674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b529c51.css",
+    "static/js/main.93c02674.js"
+  ]
+}

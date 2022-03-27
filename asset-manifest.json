@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lsdlab/static/css/main.3fe4b9c2.css",
+    "main.css": "/lsdlab/static/css/main.da663cb6.css",
     "main.js": "/lsdlab/static/js/main.54e2dcd8.js",
     "static/media/straight.png": "/lsdlab/static/media/straight.59a5237f7e34c33d38e0.png",
     "static/media/Sun.png": "/lsdlab/static/media/Sun.f9a24d0ec946c42fa4b0.png",
@@ -33,11 +33,11 @@
     "static/media/space ship.png": "/lsdlab/static/media/space ship.7b27efdabcba4a6c17fa.png",
     "static/media/white paper.png": "/lsdlab/static/media/white paper.910c237174abc814e6dc.png",
     "index.html": "/lsdlab/index.html",
-    "main.3fe4b9c2.css.map": "/lsdlab/static/css/main.3fe4b9c2.css.map",
+    "main.da663cb6.css.map": "/lsdlab/static/css/main.da663cb6.css.map",
     "main.54e2dcd8.js.map": "/lsdlab/static/js/main.54e2dcd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fe4b9c2.css",
+    "static/css/main.da663cb6.css",
     "static/js/main.54e2dcd8.js"
   ]
 }

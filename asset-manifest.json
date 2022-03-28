@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d06c2d2.css",
-    "main.js": "/static/js/main.2968eeb7.js",
+    "main.js": "/static/js/main.7580a646.js",
     "static/media/Sun.png": "/static/media/Sun.fed3f26630c830bae1cb.png",
     "static/media/Sun.webp": "/static/media/Sun.d3c02423964668003f06.webp",
     "static/media/LSD_LAB_CRISTAL.png": "/static/media/LSD_LAB_CRISTAL.8eba5b20bd4f557dcbf7.png",
@@ -27,6 +27,7 @@
     "static/media/Gotham-Light.otf": "/static/media/Gotham-Light.59aa40045d8df0b87a73.otf",
     "static/media/Gotham-Book-Regular.otf": "/static/media/Gotham-Book-Regular.d946fc4006181ac4e1c7.otf",
     "static/media/Water ripples mini.png": "/static/media/Water ripples mini.1945441c9ec83c944bab.png",
+    "static/media/LSD_LAB_NFT_HOME.png": "/static/media/LSD_LAB_NFT_HOME.30ced2d845f5b718549e.png",
     "static/media/Lego stitch.webp": "/static/media/Lego stitch.6932ea21992c135cbdcb.webp",
     "static/media/space ship.png": "/static/media/space ship.7b27efdabcba4a6c17fa.png",
     "static/media/organic stitch.webp": "/static/media/organic stitch.b8beff9ee07ca0e1302c.webp",
@@ -34,10 +35,10 @@
     "static/media/white paper.png": "/static/media/white paper.910c237174abc814e6dc.png",
     "index.html": "/index.html",
     "main.1d06c2d2.css.map": "/static/css/main.1d06c2d2.css.map",
-    "main.2968eeb7.js.map": "/static/js/main.2968eeb7.js.map"
+    "main.7580a646.js.map": "/static/js/main.7580a646.js.map"
   },
   "entrypoints": [
     "static/css/main.1d06c2d2.css",
-    "static/js/main.2968eeb7.js"
+    "static/js/main.7580a646.js"
   ]
 }

@@ -1,0 +1,127 @@
+#tsparticles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding: 0;
+  margin: 0;
+  z-index: 0; /* if you use -1 you have to set to `"window"` the interactivity.detectsOn property */
+}
+#your-div {
+position: absolute;
+top: 0;
+left: 0;
+z-index: 1;
+}
+.Header_Container{
+  
+    display: flex;
+    text-align: center;
+    position: relative  ;
+    justify-content: space-around;
+    text-align: right;
+    align-items: center;
+    margin-top: 60px;
+    padding: 0 50px;
+    img{
+        height: 600px;
+        animation-name: translate;
+        animation-duration: 3s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+    }
+    .c2{
+        max-width: 530px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        p{
+            color: white;
+        }
+    }
+    h2{
+        color: white;
+       
+    }
+}
+@keyframes shake {
+  0% { transform: skewX(-15deg); }
+  5% { transform: skewX(15deg); }
+  10% { transform: skewX(-15deg); }
+  15% { transform: skewX(15deg); }
+  20% { transform: skewX(0deg); }
+  100% { transform: skewX(0deg); }  
+}
+h2{
+    font-weight: bold;
+    font-family: Meshroom;
+    font-size: 2rem;
+    letter-spacing: 2px;
+}
+p{
+    font-family: Gotham;
+    letter-spacing: 1px;
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.5rem;
+}
+@keyframes translate {
+    0% {
+      transform: translate(0, 0);    
+    }
+    50% {
+      transform: translate(10px, 30px);
+    }
+    100% {
+      transform: translate(0, 0);
+    }
+  }
+// ----------------- Media Query ------------------- //
+
+@media only screen and (max-width: 1000px) {
+    .Header_Container{
+        img{
+            height: 400px;
+        }
+        
+    }
+ 
+}
+@media only screen and (max-width: 860px) {
+    .Header_Container{
+        img{
+            height: 350px;
+        }
+    }
+ 
+}
+@media only screen and (max-width: 650px) {
+    .Header_Container{
+        flex-wrap: wrap;
+        text-align: center;
+        img{
+            height: 250px;
+        }
+    }
+ 
+}
+
+@media only screen and (max-width: 500px) {
+    h2{
+      font-size: 1.4rem;
+    }
+    p{
+      line-height: 1.2rem;
+    }
+  }
+  @media only screen and (max-width: 350px) {
+    h2{
+      font-size: 1.2rem;
+    }
+  }
+  @media only screen and (max-width: 300px) {
+    h2{
+      font-size: 1rem;
+    }
+  }

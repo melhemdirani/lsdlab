@@ -1,13 +1,30 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(#52027B,#320759,#173868,#42F1E7,#4FA2C5,#93DBA9,#4FA2C5);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html {
+  scroll-behavior: smooth;
+  
 }
+:target:before {
+  display: block;
+  position: relative;
+  top: -120px; 
+  visibility: hidden;
+}
+@font-face {
+  font-family: Gotham;
+  src: url(../src/assets/font\ /Gotham-Light.otf);
+  src: url(../src/assets/font\ /Gotham-Book-Regular.otf)
+       url(../src/assets/font\ /Gotham-Medium.otf)
+       url(../src/assets/font\ /Gotham-Medium-copy.otf)
+       url(../src/assets/font\ /Gotham-Medium-Regular.ttf)
+       url(../src/assets/font\ /GothamHTF-Light.otf);
+}
+
+@font-face {
+  font-family: Meshroom;
+  src:  url(../src/assets/font\ /TheMeshroomRegular.ttf);
+}
+;

@@ -1,0 +1,60 @@
+.About_Container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: left;
+    padding-left: 50px;
+    margin: 150px 0;
+    .image{
+        height: 150px;
+    }
+    .whitepaper{
+        height: 40px;
+        margin: 0;
+        margin-left: 15px;
+    }
+    .c1{
+        .h2{
+            color: white;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+        }
+        .p{
+            color: white;
+            max-width: 600px;
+        }
+    }
+  
+}
+// ----------------- Media Query ------------------- //
+
+@media only screen and (max-width: 600px) {
+    .About_Container{
+        padding-left: 20px;
+        .whitepaper{
+            height: 35px;
+        }
+
+    }
+ 
+}
+
+@media only screen and (max-width: 340px) {
+    .About_Container{
+        .image{
+            height: 80px;
+        }
+
+    }
+ 
+}
+@media only screen and (max-width: 290px) {
+    .About_Container{
+        .image{
+            display: none;
+        }
+
+    }
+ 
+}

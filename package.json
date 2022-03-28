@@ -1,17 +1,31 @@
 {
   "name": "lsdlab",
   "version": "0.1.0",
+  "homepage": "https://lsdlab.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "aos": "^2.3.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-intersection-observer": "^8.33.1",
+    "react-lazy-load-image-component": "^1.5.1",
+    "react-progressive-graceful-image": "^0.6.14",
+    "react-router-dom": "^6.2.2",
+    "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.0",
+    "react-timeline-scribble": "^1.0.14",
+    "react-tsparticles": "^1.42.4",
+    "react-vertical-timeline-component": "^3.5.2",
+    "sass": "^1.49.9",
+    "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }

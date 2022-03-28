@@ -1,0 +1,129 @@
+.Subscribe_Container{
+    background-image: url(../../assets/images/Sun.webp);
+    background-size: cover;
+    background-position: 50% 100%;
+    text-align: center;
+    height: 110vh;
+    min-height: 700px;
+    padding-top: 450px;
+    margin-top: -350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    .sun{
+        width: 100vw;
+    }
+    .p{
+        font-family: Meshroom;
+        font-size: 18px;
+    }
+    .input{
+        width: 560px;
+        height: 50px;
+        background-color: transparent;
+        border: 1px solid black;
+        color: rgba(0,0,0,.8);
+        padding: 0 20px;
+        border-radius: 5px;
+    }
+    ::placeholder{
+        color: black;
+    }
+    input:focus{
+        outline: none;
+    }
+    button{
+        font-family: Meshroom;
+        width: 605px;
+        height: 50px;
+        border-radius: 5px;
+        background-color: #310758;
+        color: white;
+        border: none;
+        font-size: 18px;
+        margin-top: 10px;
+        cursor: pointer;
+    }
+    form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        .logo{
+            height: 80px;
+            padding: 10px 20px;
+        }
+    }
+}
+
+// ----------------- Media Query ------------------- //
+
+@media only screen and (max-width: 800px) {
+    .Subscribe_Container{
+        height: 70vh;
+        .sun{
+            width: 100vw;
+            margin-top: -40vw;
+        }
+     
+        .input{
+            width: 70vw;
+            padding: 0 5vw;
+
+        }
+        input:focus{
+            outline: none;
+        }
+        button{
+            width: 81vw;
+        }
+        .p{
+            font-size: 16px;
+        }
+    }
+}
+@media only screen and (max-width: 600px) {
+    .Subscribe_Container{
+        .p{
+            font-size: 12px;
+        }
+        .footer{
+      
+            .logo{
+                height: 60px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 400px) {
+    .Subscribe_Container{
+        background-image: url(../../assets/images/Sunmobile.webp);
+    }
+}
+@media only screen and (max-width: 350px) {
+    .Subscribe_Container{
+     
+        .footer{
+      
+            .logo{
+                height: 50px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 350px) {
+    .Subscribe_Container{
+     
+        .footer{
+      
+            .logo{
+                height: 50px;
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+.RoadMap_Container{
+    margin-top: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .test{
+        padding: 0;
+        margin: 0 !important;
+    }
+    .cristal{
+        height: 600px;
+    }
+    p{
+        padding: 0 30px;
+        text-align: center;
+        margin: 10px 0;
+    }
+    .vertical{
+        margin: 0;
+        margin-top: 50px;
+        margin-left: 40px;
+        max-width: 700px;
+        align-self: flex-start;
+    }
+    .subContainer{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    h4{
+        margin-left: 0;
+    }
+    h3{
+        font-family: Meshroom;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .RoadMap_Container{
+        .vertical{
+            max-width: 85vw;
+        }
+        .cristal{
+            display: none;
+        }
+    }
+ 
+}
+@media only screen and (max-width: 500px) {
+    .RoadMap_Container{
+        
+        p{
+            padding: 0;
+
+        }
+    }
+ 
+}

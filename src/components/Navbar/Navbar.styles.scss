@@ -1,0 +1,89 @@
+.Navbar_Container{
+    background-color: #DF0DA7;
+    height: 100px;
+    display: flex;
+    padding: 0 60px 0 20px;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    .logo{
+        height: 80px;
+    }
+    .navigation{
+        display: flex;
+        justify-content: center;
+        a{
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            font-family: Gotham;
+            margin: 0 20px;
+        }
+        .social{
+            height: 25px;
+            width: auto;
+            cursor: pointer;
+        }
+    }
+    .navigation_mobile{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        justify-content: center;
+        top: 80px;
+        width: 100vw;
+        height: auto;
+        text-align: center;
+        right: 0;
+        background-color: #14EAE9;
+        z-index: 999;
+        a{
+            text-decoration: none;
+            color: #DF0DA7;
+            font-weight: bold;
+            margin: 15px;
+            font-family: Meshroom;
+        }
+        .social{
+            height: 25px;
+            width: auto;
+            cursor: pointer;
+        }
+    }
+    .Menu{
+        height: 30px;
+    }
+}
+// ----------------- Media Query ------------------- //
+
+@media only screen and (max-width: 910px) {
+    .Navbar_Container{
+        padding: 0 20px;
+        .navigation{
+            a{
+                font-size: 12px;
+                margin: 0 10px;
+            }
+            .social{
+                height: 15px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 600px) {
+    .Navbar_Container{
+        height: 80px;
+        .logo{
+            height: 60px;
+        }
+        padding: 0 10px;
+        .navigation{
+            a{
+                font-size: 9px;
+                margin: 0 8px;
+            }
+        }
+    }
+}

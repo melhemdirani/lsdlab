@@ -1,0 +1,41 @@
+
+
+h2{
+  font-weight: bold;
+  font-family: Meshroom;
+  font-size: 2rem;
+  letter-spacing: 2px;
+}
+p{
+  font-family: Gotham;
+  letter-spacing: 1px;
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1.5rem;
+}
+
+// ----------------- Media Query ------------------- //
+
+
+@media only screen and (max-width: 500px) {
+  h2{
+    font-size: 1.4rem;
+  }
+  p{
+    line-height: 1.2rem;
+  }
+}
+@media only screen and (max-width: 350px) {
+  h2{
+    font-size: 1.2rem;
+  }
+  p{
+    line-height: 1rem;
+  }
+}
+@media only screen and (max-width: 300px) {
+  h2{
+    font-size: 1rem;
+  }
+  
+}

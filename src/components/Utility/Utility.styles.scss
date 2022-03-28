@@ -1,0 +1,62 @@
+
+.Utility_Container{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 80px;
+    //background-image: url(../../assets/images/electricalcurrent.png);
+    background-size: cover;
+    background-position: center;
+    .utilities{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        max-width: 90vw;
+    }
+    h2{
+        margin: 40px 0;
+    }
+    .Utitlity_Card{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        img{
+            height: 100px;
+        }
+        p{
+            width: 200px;
+            letter-spacing: 1px;
+            font-family: Meshroom;
+        }
+        margin: 20px 80px;
+    }
+}
+
+// ----------------- Media Query ------------------- //
+
+@media only screen and (max-width: 900px) {
+    .Utility_Container{
+        .Utitlity_Card{
+            img{
+                height: 100px;
+            }
+          
+            margin: 20px;
+        }
+    }
+    
+}
+@media only screen and (max-width: 600px) {
+    .Utility_Container{
+        .Utitlity_Card{
+   
+            p{
+                margin: 0;
+                font-size: .8rem;
+            }
+        }
+    }
+    
+}

@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.c1703fc0.css",
-    "main.js": "/static/js/main.83c862f5.js",
+    "main.js": "/static/js/main.7081e85a.js",
     "static/js/787.dedbe067.chunk.js": "/static/js/787.dedbe067.chunk.js",
     "static/media/straight.png": "/static/media/straight.256f708631dfb74864c4.png",
     "static/media/Sun.webp": "/static/media/Sun.d3c02423964668003f06.webp",
     "static/media/LSD_LAB_NFT_HOME.png": "/static/media/LSD_LAB_NFT_HOME.f6c662bd2cf19f6f4905.png",
     "static/media/standard stitch.png": "/static/media/standard stitch.eeb8f47dc96b67294bf0.png",
-    "static/media/Sun.png": "/static/media/Sun.6badece3c596feffb666.png",
     "static/media/Sunmobile.webp": "/static/media/Sunmobile.03c82ebd6e55afd9ea3f.webp",
     "static/media/Lego stitch.png": "/static/media/Lego stitch.00e1a1952e7d39a2706b.png",
     "static/media/Gotham-Medium-copy.otf": "/static/media/Gotham-Medium-copy.bcd733e6f8ebeb6a5e75.otf",
@@ -16,8 +15,8 @@
     "static/media/straight2.png": "/static/media/straight2.0fbb754980b76a6e5f99.png",
     "static/media/LSD_LAB_CRISTAL.webp": "/static/media/LSD_LAB_CRISTAL.1b873c2634e826f38eea.webp",
     "static/media/organic stitch.png": "/static/media/organic stitch.6998f8778792757d6697.png",
+    "static/media/main stitch.png": "/static/media/main stitch.15ddf8d003b5cf91c5fd.png",
     "static/media/Gotham-Medium-Regular.ttf": "/static/media/Gotham-Medium-Regular.ba4f661aec947b576e57.ttf",
-    "static/media/main stitch.png": "/static/media/main stitch.35958239ae060a8d44c1.png",
     "static/media/standard stitch2.png": "/static/media/standard stitch2.c61de0a4f189697a1c58.png",
     "static/media/LSD_ABOUT_NFT.png": "/static/media/LSD_ABOUT_NFT.60838c753bb5150aecb1.png",
     "static/media/Lego stitch2.png": "/static/media/Lego stitch2.2ce57e73d5d1014bb53d.png",
@@ -44,11 +43,11 @@
     "static/media/right.svg": "/static/media/right.899f274180e3e3117c5257f89dc1e48b.svg",
     "static/media/left.svg": "/static/media/left.756a56dc10d87207c36178a961516a14.svg",
     "main.c1703fc0.css.map": "/static/css/main.c1703fc0.css.map",
-    "main.83c862f5.js.map": "/static/js/main.83c862f5.js.map",
+    "main.7081e85a.js.map": "/static/js/main.7081e85a.js.map",
     "787.dedbe067.chunk.js.map": "/static/js/787.dedbe067.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1703fc0.css",
-    "static/js/main.83c862f5.js"
+    "static/js/main.7081e85a.js"
   ]
 }

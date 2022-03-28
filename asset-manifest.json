@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a492f0d8.css",
+    "main.css": "/static/css/main.c68ea728.css",
     "main.js": "/static/js/main.a4bcde7e.js",
     "static/media/Sun.png": "/static/media/Sun.fed3f26630c830bae1cb.png",
     "static/media/LSD_LAB_CRISTAL.png": "/static/media/LSD_LAB_CRISTAL.8eba5b20bd4f557dcbf7.png",
@@ -32,11 +32,11 @@
     "static/media/space ship.png": "/static/media/space ship.7b27efdabcba4a6c17fa.png",
     "static/media/white paper.png": "/static/media/white paper.910c237174abc814e6dc.png",
     "index.html": "/index.html",
-    "main.a492f0d8.css.map": "/static/css/main.a492f0d8.css.map",
+    "main.c68ea728.css.map": "/static/css/main.c68ea728.css.map",
     "main.a4bcde7e.js.map": "/static/js/main.a4bcde7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a492f0d8.css",
+    "static/css/main.c68ea728.css",
     "static/js/main.a4bcde7e.js"
   ]
 }

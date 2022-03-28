@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c68ea728.css",
-    "main.js": "/static/js/main.a4bcde7e.js",
+    "main.css": "/static/css/main.bc72c4e1.css",
+    "main.js": "/static/js/main.cf48ad3c.js",
     "static/media/Sun.png": "/static/media/Sun.fed3f26630c830bae1cb.png",
+    "static/media/Sun.webp": "/static/media/Sun.d3c02423964668003f06.webp",
     "static/media/LSD_LAB_CRISTAL.png": "/static/media/LSD_LAB_CRISTAL.8eba5b20bd4f557dcbf7.png",
     "static/media/straight.png": "/static/media/straight.916daeae57d35b0fdb2c.png",
-    "static/media/Sunmobile.png": "/static/media/Sunmobile.6715f1ff8a6b878d8534.png",
-    "static/media/LSD_LAB_NFT_HOME.png": "/static/media/LSD_LAB_NFT_HOME.450aae1e959b24a249e3.png",
     "static/media/standard stitch.png": "/static/media/standard stitch.6ce7260dda343e987425.png",
+    "static/media/Sunmobile.webp": "/static/media/Sunmobile.03c82ebd6e55afd9ea3f.webp",
+    "static/media/LSD_LAB_NFT_HOME.webp": "/static/media/LSD_LAB_NFT_HOME.66a24b522a192d75c6ff.webp",
     "static/media/Gotham-Medium-copy.otf": "/static/media/Gotham-Medium-copy.bcd733e6f8ebeb6a5e75.otf",
     "static/media/Gotham-Medium.otf": "/static/media/Gotham-Medium.bcd733e6f8ebeb6a5e75.otf",
     "static/media/Lego stitch.png": "/static/media/Lego stitch.0e683f6c899dd0a58355.png",
@@ -29,14 +30,15 @@
     "static/media/Gotham-Light.otf": "/static/media/Gotham-Light.59aa40045d8df0b87a73.otf",
     "static/media/Gotham-Book-Regular.otf": "/static/media/Gotham-Book-Regular.d946fc4006181ac4e1c7.otf",
     "static/media/Water ripples mini.png": "/static/media/Water ripples mini.1945441c9ec83c944bab.png",
+    "static/media/LSD_LAB_NFT_HOME.png": "/static/media/LSD_LAB_NFT_HOME.30ced2d845f5b718549e.png",
     "static/media/space ship.png": "/static/media/space ship.7b27efdabcba4a6c17fa.png",
     "static/media/white paper.png": "/static/media/white paper.910c237174abc814e6dc.png",
     "index.html": "/index.html",
-    "main.c68ea728.css.map": "/static/css/main.c68ea728.css.map",
-    "main.a4bcde7e.js.map": "/static/js/main.a4bcde7e.js.map"
+    "main.bc72c4e1.css.map": "/static/css/main.bc72c4e1.css.map",
+    "main.cf48ad3c.js.map": "/static/js/main.cf48ad3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c68ea728.css",
-    "static/js/main.a4bcde7e.js"
+    "static/css/main.bc72c4e1.css",
+    "static/js/main.cf48ad3c.js"
   ]
 }

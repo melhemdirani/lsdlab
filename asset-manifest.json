@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2853f12.css",
-    "main.js": "/static/js/main.f4649682.js",
+    "main.css": "/static/css/main.c1703fc0.css",
+    "main.js": "/static/js/main.f0609c95.js",
     "static/js/787.dedbe067.chunk.js": "/static/js/787.dedbe067.chunk.js",
     "static/media/Sun.webp": "/static/media/Sun.d3c02423964668003f06.webp",
+    "static/media/LSD_LAB_NFT_HOME.png": "/static/media/LSD_LAB_NFT_HOME.f6c662bd2cf19f6f4905.png",
     "static/media/straight.webp": "/static/media/straight.e119d63ede6d82e56183.webp",
     "static/media/Sunmobile.webp": "/static/media/Sunmobile.03c82ebd6e55afd9ea3f.webp",
-    "static/media/LSD_LAB_NFT_HOME.webp": "/static/media/LSD_LAB_NFT_HOME.66a24b522a192d75c6ff.webp",
     "static/media/Gotham-Medium-copy.otf": "/static/media/Gotham-Medium-copy.bcd733e6f8ebeb6a5e75.otf",
     "static/media/Gotham-Medium.otf": "/static/media/Gotham-Medium.bcd733e6f8ebeb6a5e75.otf",
     "static/media/TheMeshroomRegular.ttf": "/static/media/TheMeshroomRegular.53dcda497e6d0e75700c.ttf",
@@ -14,6 +14,7 @@
     "static/media/LSD_LAB_CRISTAL.webp": "/static/media/LSD_LAB_CRISTAL.1b873c2634e826f38eea.webp",
     "static/media/Gotham-Medium-Regular.ttf": "/static/media/Gotham-Medium-Regular.ba4f661aec947b576e57.ttf",
     "static/media/LSD_ABOUT_NFT.png": "/static/media/LSD_ABOUT_NFT.60838c753bb5150aecb1.png",
+    "static/media/LSD_LAB_NFT_HOME2.png": "/static/media/LSD_LAB_NFT_HOME2.43d6100c6a398af3fdeb.png",
     "static/media/GothamHTF-Light.otf": "/static/media/GothamHTF-Light.45bfeddbc723ee97c16b.otf",
     "static/media/Gotham-Light.otf": "/static/media/Gotham-Light.59aa40045d8df0b87a73.otf",
     "static/media/Gotham-Book-Regular.otf": "/static/media/Gotham-Book-Regular.d946fc4006181ac4e1c7.otf",
@@ -35,12 +36,12 @@
     "index.html": "/index.html",
     "static/media/right.svg": "/static/media/right.899f274180e3e3117c5257f89dc1e48b.svg",
     "static/media/left.svg": "/static/media/left.756a56dc10d87207c36178a961516a14.svg",
-    "main.f2853f12.css.map": "/static/css/main.f2853f12.css.map",
-    "main.f4649682.js.map": "/static/js/main.f4649682.js.map",
+    "main.c1703fc0.css.map": "/static/css/main.c1703fc0.css.map",
+    "main.f0609c95.js.map": "/static/js/main.f0609c95.js.map",
     "787.dedbe067.chunk.js.map": "/static/js/787.dedbe067.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2853f12.css",
-    "static/js/main.f4649682.js"
+    "static/css/main.c1703fc0.css",
+    "static/js/main.f0609c95.js"
   ]
 }

@@ -3,7 +3,7 @@ import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timel
 import 'react-vertical-timeline-component/style.min.css';
 
 import './RoadMap.styles.scss';
-import Cristal from '../../assets/images/LSD_LAB_CRISTAL.png';
+import Cristal from '../../assets/images/LSD_LAB_CRISTAL.webp';
 
 const Icon1 = <h4>25%</h4>
 const Icon2 = <h4>50%</h4>
@@ -12,7 +12,7 @@ const Icon4 = <h4>100%</h4>
 function RoadMap() {
   return (
       <div className='RoadMap_Container' id='RoadMap'>
-        <h2>ROAD MAP</h2>
+        <h2 className='shake'>ROADMAP</h2>
         <div className='subContainer'>
             <img alt='Cristal' src={Cristal} className='cristal'/>
             <VerticalTimeline  className='vertical' layout='1-column-right' >
@@ -37,10 +37,10 @@ function RoadMap() {
                 >
                     <h3>50%</h3>
                     <p>
-                        We will purchase a piece of land in the Metaverse to build our own LSD laboratory which will act as a hub for all holders to handout as a community of virtual psychonauts.
+                        We will purchase a piece of land in the Metaverse to build our own LSD laboratory which will act as a hub for all holders to hang out as a community of virtual psychonauts.
                     </p>
                     <p>
-                        LSD lab will create a DAO for verified holders. All the DAO decisions will be taken in accordance with our holders; preferences, choises, and votes.    
+                        LSD Lab will create a DAO for verified holders. All the DAO decisions will be taken in accordance with our holders preferences, choices, and votes.    
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -51,7 +51,7 @@ function RoadMap() {
                 >
                     <h3>75%</h3>
                     <p>
-                        We will develop our 7 unique virtual worlds in the metaverse that feature live, and interactive landscapes viewable in both 3D VR (360 degree view) and through users'screens, which will vary according to the image (Print) present on each LSD Lab NFT.
+                        We will develop our 5 unique virtual worlds in the Metaverse that feature live and interactive landscapes viewable in both 3D VR (360 degree view) and through users' screens, which will vary according to the image (Print) present on each LSD Lab NFT.
                     </p>
                     <p>
                         We will be distributing premium VR headsets to random holders to increase VR accessibility.
@@ -64,10 +64,10 @@ function RoadMap() {
                     >
                     <h3>100%</h3>
                     <p>
-                        Partnerships will be struck with metaverse games and communities where consuming an LSD Lab NFT will induce psychedelic color patterns and a trippy 3D effect.
+                        Partnerships will be struck with Metaverse games and communities where consuming an LSD Lab NFT will induce psychedelic color patterns and a trippy 3D effect.
                     </p>
                     <p>
-                        We will make a contribution to an organization, of our holders' choice, that conducts psychedelic-assisted therapies (CPAT).
+                        We will make a contribution to an organization, of our holders' choice, that conducts psychedelic-assisted therapy (CPAT).
                     </p>
                     <p>
                         We will be launching the first meeting for our holders to vote regarding further decisions that are to be made relevant to the expansion of our vision.

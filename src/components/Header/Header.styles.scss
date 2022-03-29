@@ -15,44 +15,39 @@ left: 0;
 z-index: 1;
 }
 .Header_Container{
-  
+  display: flex;
+  text-align: center;
+  position: relative  ;
+  justify-content: space-around;
+  text-align: right;
+  align-items: center;
+  height: 100vh;
+  margin-top: -50px;
+  img{
+    height: 600px;
+    animation-name: translate;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  }
+  .c2{
+    max-width: 530px;
     display: flex;
-    text-align: center;
-    position: relative  ;
-    justify-content: space-around;
-    text-align: right;
+    flex-direction: column;
     align-items: center;
-    margin-top: 60px;
-    padding: 0 50px;
-    img{
-        height: 600px;
-        animation-name: translate;
-        animation-duration: 3s;
-        animation-timing-function: linear;
-        animation-iteration-count: infinite;
-    }
-    .c2{
-        max-width: 530px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        p{
-            color: white;
-        }
-    }
-    h2{
+    p{
         color: white;
-       
     }
+  }
+  h2{
+    color: white;
+  }
+  
 }
-@keyframes shake {
-  0% { transform: skewX(-15deg); }
-  5% { transform: skewX(15deg); }
-  10% { transform: skewX(-15deg); }
-  15% { transform: skewX(15deg); }
-  20% { transform: skewX(0deg); }
-  100% { transform: skewX(0deg); }  
+h2:hover{
+  animation: shake 10s !important;
 }
+
 h2{
     font-weight: bold;
     font-family: Meshroom;
@@ -98,7 +93,8 @@ p{
 }
 @media only screen and (max-width: 650px) {
     .Header_Container{
-        flex-wrap: wrap;
+      flex-direction: column;
+      justify-content: center;
         text-align: center;
         img{
             height: 250px;

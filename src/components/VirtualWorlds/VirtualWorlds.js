@@ -1,17 +1,18 @@
 import React, { useState, useEffect} from 'react';
 import 'aos/dist/aos.css';
 import Aos from 'aos';
+import ProgressiveImage from "react-progressive-image-loading";
 
-import Lego from '../../assets/images/Lego stitch.webp'
-import Lego2 from '../../assets/images/Lego stitch.png'
-import Main from '../../assets/images/main stitch.webp'
-import Main2 from '../../assets/images/main stitch.png'
-import Organic from '../../assets/images/organic stitch.webp'
-import Organic2 from '../../assets/images/organic stitch.png'
-import Standard from '../../assets/images/standard stitch.webp'
-import Standard2 from '../../assets/images/standard stitch.png'
-import Straight from '../../assets/images/straight.webp'
-import Straight2 from '../../assets/images/straight.png'
+import Lego from '../../assets/images/Lego stitch.png'
+import Lego2 from '../../assets/images/Lego stitch2.png'
+import Main from '../../assets/images/main stitch.png'
+import Main2 from '../../assets/images/main stitch2.png'
+import Organic from '../../assets/images/organic stitch.png'
+import Organic2 from '../../assets/images/organic stitch2.png'
+import Standard from '../../assets/images/standard stitch.png'
+import Standard2 from '../../assets/images/standard stitch2.png'
+import Straight from '../../assets/images/straight.png'
+import Straight2 from '../../assets/images/straight2.png'
 import Right from '../../assets/images/right.svg'
 import Left from '../../assets/images/left.svg'
 
@@ -60,22 +61,21 @@ function VirtualWorlds() {
         }
     }
     return (
-    <div className='VirtualWorlds_Container' id='Virtual'onClick={stopImageRendering} >
-        <h2>Virtual Worlds</h2>
-        <p data-aos="fade-up" data-aos-easing="ease-in-sine"  data-aos-delay="200"  data-aos-once={true}>Holders will journey through an immersive trip environment which will allow them to navigate through, discover, and interact with theur surroundings. Each virtual World features live, and interactive landscapes that vary according to the image (Print) present on each LSD lab NFT.</p>
+    <div className='VirtualWorlds_Container' data-aos="fade-up" data-aos-easing="ease-in-sine"  id='Virtual'onClick={stopImageRendering} >
+        <h2 data-aos="fade-up" data-aos-easing="ease-in-sine"    data-aos-once={true} className='shake'>Virtual Worlds</h2>
+        <p data-aos="fade-up" data-aos-easing="ease-in-sine"    data-aos-once={true}>Holders will journey through an immersive trip environment which will allow them to navigate through, discover, and interact with their surroundings. Each virtual world features live, and interactive landscapes that vary according to the image (Print) present on each LSD Lab NFT.</p>
         <div 
             className='chosenImage' 
             data-aos="fade-up" 
             data-aos-easing="ease-in-sine"  
-            data-aos-delay="300"  
             data-aos-once={true}
         >   
             <button onClick={handlePreviousClick}><img alt="" src={Left} className='arrow'/></button>
-            <img  src={images[index].item} alt="nft" className='mainImage'/>
+             <img src={images[index].item} className='mainImage'/>
             <button onClick={handleNextClick}><img alt="" src={Right} className='arrow'/></button>
         </div>
-        <p data-aos="fade-left" data-aos-easing="ease-in-sine"  data-aos-delay="200"  data-aos-once={true} className='title'>{index === 4 && "SHROOMHILLZ"}</p>
-        <div className='renderedImages' data-aos="fade-up" data-aos-easing="ease-in-sine"  data-aos-delay="400"  data-aos-once={true}>
+        <p  className='title'>{index === 4 && "SHROOMHILLZ"}</p>
+        <div className='renderedImages'  data-aos-once={true}>
             {
                 images&&images.map(image => 
                     <img 

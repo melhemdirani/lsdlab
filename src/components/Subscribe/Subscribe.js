@@ -2,11 +2,12 @@ import React, { useEffect, useState } from 'react';
 import 'aos/dist/aos.css';
 import Aos from 'aos';
 import { HashLink } from 'react-router-hash-link';
+import ProgressiveImage from "react-progressive-image-loading";
 
 import './Subscribe.styles.scss';
 import Welcome from '../Welcome';
 import SocialMediaIcons from '../SocialMediaIcons/SocialMediaIcons';
-import Logo from '../../assets/images/LSD_LAB_LOGO.png';
+import Logo from '../../assets/images/LSD_LAB_LOGO.webp';
 
 const scrollWithOffset = (el) => {
   const yCoordinate = el.getBoundingClientRect().top + window.pageYOffset;
@@ -30,7 +31,7 @@ function Subscribe() {
   return (
     <div className='Subscribe_Container'>
       <div data-aos="fade-up" data-aos-easing="ease-in-sine"  data-aos-once={true}>
-        <h2>Subscribe</h2>
+        <h2 className='shake'>Subscribe</h2>
         <form onSubmit={handleButtonClick}>
             <input 
               type="email" 

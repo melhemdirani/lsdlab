@@ -24,13 +24,13 @@ const NavbarItems = ({styling, functions}) => {
       
       <HashLink to="#home" scroll={el => scrollWithOffset(el)} data-aos={"fade-left"} data-aos-easing="ease-in-sine"  data-aos-delay="200"  data-aos-once={true}>Home</HashLink>
       <HashLink to="#About" scroll={el => scrollWithOffset(el)} data-aos={"fade-left"} data-aos-easing="ease-in-sine"  data-aos-delay="300"  data-aos-once={true} >About</HashLink>
-      <HashLink to="#Virtual" scroll={el => scrollWithOffset(el)} data-aos={"fade-left"} data-aos-easing="ease-in-sine"  data-aos-delay="400"  data-aos-once={true}>Virtual World</HashLink>
+      <HashLink to="#Virtual" scroll={el => scrollWithOffset(el)} data-aos={"fade-left"} data-aos-easing="ease-in-sine"  data-aos-delay="400"  data-aos-once={true}>Virtual Worlds</HashLink>
       <HashLink to="#Utility" scroll={el => scrollWithOffset(el)} data-aos={"fade-left"} data-aos-easing="ease-in-sine"  data-aos-delay="500"  data-aos-once={true} >Utility</HashLink>
-      <HashLink to="#RoadMap" scroll={el => scrollWithOffset(el)} data-aos={"fade-left"} data-aos-easing="ease-in-sine"  data-aos-delay="600"  data-aos-once={true}>RoadMap</HashLink>
+      <HashLink to="#RoadMap" scroll={el => scrollWithOffset(el)} data-aos={"fade-left"} data-aos-easing="ease-in-sine"  data-aos-delay="600"  data-aos-once={true}>Roadmap</HashLink>
       <a to="#home" href='https://twitter.com/LSDLabNFT' target="_blank" rel="noopener noreferrer" scroll={el => scrollWithOffset(el)}  data-aos={styling === 'navigation_mobile' && "fade-up"} data-aos-easing="ease-in-sine"  data-aos-delay="600"  data-aos-once={true}>
         <img alt="" src={Twitter} className='social'/>
       </a>
-      <a to="#home" href='https://www.instagram.com/lsdlabnft/' target="_blank" rel="noopener noreferrer" scroll={el => scrollWithOffset(el)}  data-aos={styling === 'navigation_mobile' && "fade-up"} data-aos-easing="ease-in-sine"  data-aos-delay="600"  data-aos-once={true}>
+      <a to="#home" href='https://www.instagram.com/lsdlab_nft/' target="_blank" rel="noopener noreferrer" scroll={el => scrollWithOffset(el)}  data-aos={styling === 'navigation_mobile' && "fade-up"} data-aos-easing="ease-in-sine"  data-aos-delay="600"  data-aos-once={true}>
         <img alt="" src={Instagram} className='social'/>
       </a>
       <a to="#home" href='https://discord.com/invite/JTxM2w6j5p' target="_blank" rel="noopener noreferrer" scroll={el => scrollWithOffset(el)}  data-aos={styling === 'navigation_mobile' && "fade-up"} data-aos-easing="ease-in-sine"  data-aos-delay="600"  data-aos-once={true}>

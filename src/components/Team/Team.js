@@ -80,7 +80,7 @@ function Team() {
   ]
   return (
     <div className='Team_Container' ref={ref}>
-      <h2 data-aos="fade-up" data-aos-easing="ease-in-sine"  data-aos-once={true}>THE PSYCHONAUT TEAM</h2>
+      <h2 data-aos="fade-up" data-aos-easing="ease-in-sine" className='shake' data-aos-once={true}>THE PSYCHONAUT TEAM</h2>
         <img  src={Purple} alt="nft" className='purple_bg'/>
       <div className='teamMembers'>
         {

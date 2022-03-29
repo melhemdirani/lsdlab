@@ -26,11 +26,11 @@ function Utility() {
     }, [])
 
     const items = [
-        {image: Lab, text:"Interactive 3d virtual worlds" },
+        {image: Lab, text:"Interactive 3D virtual worlds" },
         {image: Application, text:"Building our laboratory in the Metaverse" },
         {image: UtilityCommunity, text:"Giving back to the community" },
         {image: Partnerships, text:"Partnerships with Metaverse games and projects" },
-        {image: Voting, text:"Full commercial & votting rights" },
+        {image: Voting, text:"Full commercial & voting rights" },
     ]
   return (
     <div className='Utility_Container' id='Utility'>

@@ -14,7 +14,7 @@ function About() {
   return (
     <div className='About_Container' id='About'>
         <div className='c1'>
-            <h2 className='h2'>
+            <h2 className='h2 shake' data-aos="fade-up" data-aos-easing="ease-in-sine"  data-aos-delay="200"  data-aos-once={true}>
                 ABOUT
                 <img alt="whitepaper" src={WhitePaper} className='whitepaper'/>
             </h2>

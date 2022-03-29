@@ -29,7 +29,7 @@ export default function Welcome() {
             autoStart: false,
         }}
         onInit={(typewriter) => {
-            typewriter.typeString('WELCOME TO THE FUTURE, HOP ON AND HAVE AN AWESOME VISUAL EXPERIENCE.')
+            typewriter.typeString('WELCOME TO THE FUTURE, HOP ON AND HAVE AN AWESOME VISUAL EXPERIENCE!')
             .start();
         }}
     />}

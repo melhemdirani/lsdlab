@@ -16,7 +16,7 @@ export default function SocialMediaIcons() {
           <img alt="" src={Twitter} />
       </a>
       <a 
-        href='https://www.instagram.com/lsdlabnft/' 
+        href='https://www.instagram.com/lsdlab_nft/' 
         target="_blank" 
         rel="noopener noreferrer" 
       >

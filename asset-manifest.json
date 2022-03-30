@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/lsdlab/static/css/main.fd082708.css",
-    "main.js": "/lsdlab/static/js/main.1c059ccc.js",
+    "main.css": "/lsdlab/static/css/main.27e5129c.css",
+    "main.js": "/lsdlab/static/js/main.3e8f8960.js",
+    "static/css/967.5145ab20.chunk.css": "/lsdlab/static/css/967.5145ab20.chunk.css",
+    "static/js/967.14be36c9.chunk.js": "/lsdlab/static/js/967.14be36c9.chunk.js",
     "static/js/787.dedbe067.chunk.js": "/lsdlab/static/js/787.dedbe067.chunk.js",
     "static/media/straight.png": "/lsdlab/static/media/straight.256f708631dfb74864c4.png",
     "static/media/Sun.webp": "/lsdlab/static/media/Sun.d3c02423964668003f06.webp",
     "static/media/LSD_LAB_NFT_HOME.png": "/lsdlab/static/media/LSD_LAB_NFT_HOME.f6c662bd2cf19f6f4905.png",
+    "static/media/straight.webp": "/lsdlab/static/media/straight.e119d63ede6d82e56183.webp",
     "static/media/standard stitch.png": "/lsdlab/static/media/standard stitch.eeb8f47dc96b67294bf0.png",
     "static/media/Sunmobile.webp": "/lsdlab/static/media/Sunmobile.03c82ebd6e55afd9ea3f.webp",
     "static/media/Lego stitch.png": "/lsdlab/static/media/Lego stitch.00e1a1952e7d39a2706b.png",
     "static/media/Gotham-Medium-copy.otf": "/lsdlab/static/media/Gotham-Medium-copy.bcd733e6f8ebeb6a5e75.otf",
     "static/media/Gotham-Medium.otf": "/lsdlab/static/media/Gotham-Medium.bcd733e6f8ebeb6a5e75.otf",
     "static/media/TheMeshroomRegular.ttf": "/lsdlab/static/media/TheMeshroomRegular.53dcda497e6d0e75700c.ttf",
+    "static/media/standard stitch.webp": "/lsdlab/static/media/standard stitch.ce5647f071240fbdc459.webp",
     "static/media/straight2.png": "/lsdlab/static/media/straight2.0fbb754980b76a6e5f99.png",
     "static/media/LSD_LAB_CRISTAL.webp": "/lsdlab/static/media/LSD_LAB_CRISTAL.1b873c2634e826f38eea.webp",
     "static/media/organic stitch.png": "/lsdlab/static/media/organic stitch.6998f8778792757d6697.png",
@@ -29,8 +33,11 @@
     "static/media/Power plant mini.webp": "/lsdlab/static/media/Power plant mini.d8c477bde3ca43dfb27b.webp",
     "static/media/utility community.webp": "/lsdlab/static/media/utility community.5a99990665bea605870b.webp",
     "static/media/organic stitch2.png": "/lsdlab/static/media/organic stitch2.9bdc46ea5528c77d6e6e.png",
+    "static/media/Lego stitch.webp": "/lsdlab/static/media/Lego stitch.6932ea21992c135cbdcb.webp",
     "static/media/main stitch2.png": "/lsdlab/static/media/main stitch2.cc8ad3845b3aed733f15.png",
     "static/media/partnerships.webp": "/lsdlab/static/media/partnerships.504b7895df0c95789ae1.webp",
+    "static/media/organic stitch.webp": "/lsdlab/static/media/organic stitch.b8beff9ee07ca0e1302c.webp",
+    "static/media/main stitch.webp": "/lsdlab/static/media/main stitch.214a9311e371c6216ab2.webp",
     "static/media/mushroom mini.webp": "/lsdlab/static/media/mushroom mini.2c9355b8ce9b5aadead6.webp",
     "static/media/voting.webp": "/lsdlab/static/media/voting.4d573c207f2ceb5e9a84.webp",
     "static/media/lab.webp": "/lsdlab/static/media/lab.4fedd5a92bf399c43f11.webp",
@@ -42,12 +49,14 @@
     "index.html": "/lsdlab/index.html",
     "static/media/right.svg": "/lsdlab/static/media/right.899f274180e3e3117c5257f89dc1e48b.svg",
     "static/media/left.svg": "/lsdlab/static/media/left.756a56dc10d87207c36178a961516a14.svg",
-    "main.fd082708.css.map": "/lsdlab/static/css/main.fd082708.css.map",
-    "main.1c059ccc.js.map": "/lsdlab/static/js/main.1c059ccc.js.map",
+    "main.27e5129c.css.map": "/lsdlab/static/css/main.27e5129c.css.map",
+    "main.3e8f8960.js.map": "/lsdlab/static/js/main.3e8f8960.js.map",
+    "967.5145ab20.chunk.css.map": "/lsdlab/static/css/967.5145ab20.chunk.css.map",
+    "967.14be36c9.chunk.js.map": "/lsdlab/static/js/967.14be36c9.chunk.js.map",
     "787.dedbe067.chunk.js.map": "/lsdlab/static/js/787.dedbe067.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd082708.css",
-    "static/js/main.1c059ccc.js"
+    "static/css/main.27e5129c.css",
+    "static/js/main.3e8f8960.js"
   ]
 }
